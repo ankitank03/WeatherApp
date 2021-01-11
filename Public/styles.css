@@ -1,0 +1,22 @@
+body{
+background-image: url("Images/640203.jpg");
+text-align: center;
+padding:7% 15%;
+}
+
+input{
+  margin:10% auto 3%;
+  height:40px;
+  text-align:center;
+  font-style:italic;
+  font-stretch: expanded;
+  font-weight:bold;
+}
+h1{
+  font-family: cursive;
+  font-weight: bolder;
+}
+.custom
+{
+  width:20%;
+}
